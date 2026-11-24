@@ -1,0 +1,20 @@
+{
+  "name": "sahlmart",
+  "private": true,
+  "workspaces": [
+    "apps/storefront",
+    "apps/admin",
+    "apps/api"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n storefront,admin,api -c green,blue,yellow \"npm:dev:storefront\" \"npm:dev:admin\" \"npm:dev:api\"",
+    "dev:storefront": "npm run dev -w @sahlmart/storefront",
+    "dev:admin": "npm run dev -w @sahlmart/admin",
+    "dev:api": "npm run start:dev -w @sahlmart/api",
+    "build": "npm run build -w @sahlmart/storefront && npm run build -w @sahlmart/admin && npm run build -w @sahlmart/api",
+    "typecheck": "npm run typecheck -w @sahlmart/storefront && npm run typecheck -w @sahlmart/admin && npm run typecheck -w @sahlmart/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

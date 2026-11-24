@@ -1,0 +1,1498 @@
+{
+  "categories": [
+    {
+      "id": "paan-corner",
+      "name": "Paan Corner",
+      "emoji": "🍃",
+      "artwork": [
+        "🌿",
+        "🍃",
+        "🫙"
+      ],
+      "tone": "tone-green",
+      "items": [
+        {
+          "name": "Fresh Betel Leaves",
+          "unit": "10 leaves",
+          "unitCode": "piece",
+          "price": 25,
+          "emoji": "🌿"
+        },
+        {
+          "name": "Sweet Gulkand",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🌹"
+        },
+        {
+          "name": "Roasted Fennel Seeds",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🌱"
+        },
+        {
+          "name": "Cardamom Pods",
+          "unit": "50 g",
+          "unitCode": "g",
+          "price": 110,
+          "emoji": "🌰"
+        },
+        {
+          "name": "Paan Supari Mix",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 65,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Desiccated Coconut",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 48,
+          "emoji": "🥥"
+        },
+        {
+          "name": "Rose Petal Preserve",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 125,
+          "emoji": "🌹"
+        },
+        {
+          "name": "Whole Cloves",
+          "unit": "50 g",
+          "unitCode": "g",
+          "price": 75,
+          "emoji": "🌿"
+        },
+        {
+          "name": "Mint Mouth Freshener",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 60,
+          "emoji": "🍃"
+        },
+        {
+          "name": "Sweet Saunf Mix",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🌱"
+        }
+      ]
+    },
+    {
+      "id": "dairy-bread-eggs",
+      "name": "Dairy, Bread & Eggs",
+      "emoji": "🥛",
+      "artwork": [
+        "🥛",
+        "🍞",
+        "🥚"
+      ],
+      "tone": "tone-blue",
+      "items": [
+        {
+          "name": "Fresh Full Cream Milk",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 72,
+          "emoji": "🥛"
+        },
+        {
+          "name": "Farm Curd Tub",
+          "unit": "400 g",
+          "unitCode": "g",
+          "price": 42,
+          "emoji": "🥣"
+        },
+        {
+          "name": "Sweet Mango Lassi",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 28,
+          "emoji": "🥤"
+        },
+        {
+          "name": "Classic Salted Buttermilk",
+          "unit": "500 ml",
+          "unitCode": "ml",
+          "price": 25,
+          "emoji": "🥛"
+        },
+        {
+          "name": "Salted Butter",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 62,
+          "emoji": "🧈"
+        },
+        {
+          "name": "Fresh Paneer",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🧀"
+        },
+        {
+          "name": "Cheddar Cheese Slices",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 145,
+          "emoji": "🧀"
+        },
+        {
+          "name": "Pure Cow Ghee",
+          "unit": "500 ml",
+          "unitCode": "ml",
+          "price": 325,
+          "emoji": "🫙"
+        },
+        {
+          "name": "Brown Bread Loaf",
+          "unit": "400 g",
+          "unitCode": "g",
+          "price": 48,
+          "emoji": "🍞"
+        },
+        {
+          "name": "Farm Eggs",
+          "unit": "6 pieces",
+          "unitCode": "piece",
+          "price": 55,
+          "emoji": "🥚"
+        }
+      ]
+    },
+    {
+      "id": "fruits-vegetables",
+      "name": "Fruits & Vegetables",
+      "emoji": "🥬",
+      "artwork": [
+        "🍌",
+        "🥬",
+        "🍅"
+      ],
+      "tone": "tone-green",
+      "items": [
+        {
+          "name": "Fresh Potatoes",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 38,
+          "emoji": "🥔"
+        },
+        {
+          "name": "Red Onions",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 44,
+          "emoji": "🧅"
+        },
+        {
+          "name": "Vine Tomatoes",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 32,
+          "emoji": "🍅"
+        },
+        {
+          "name": "Robusta Bananas",
+          "unit": "6 pieces",
+          "unitCode": "piece",
+          "price": 48,
+          "emoji": "🍌"
+        },
+        {
+          "name": "Shimla Apples",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 165,
+          "emoji": "🍎"
+        },
+        {
+          "name": "Fresh Spinach Bunch",
+          "unit": "1 bunch",
+          "unitCode": "piece",
+          "price": 25,
+          "emoji": "🥬"
+        },
+        {
+          "name": "Ooty Carrots",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 42,
+          "emoji": "🥕"
+        },
+        {
+          "name": "Green Cucumbers",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 30,
+          "emoji": "🥒"
+        },
+        {
+          "name": "Nagpur Oranges",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 88,
+          "emoji": "🍊"
+        },
+        {
+          "name": "Green Capsicum",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 48,
+          "emoji": "🫑"
+        }
+      ]
+    },
+    {
+      "id": "cold-drinks-juices",
+      "name": "Cold Drinks & Juices",
+      "emoji": "🧃",
+      "artwork": [
+        "🍋",
+        "🧃",
+        "🥤"
+      ],
+      "tone": "tone-pink",
+      "items": [
+        {
+          "name": "Pepsi Cola",
+          "unit": "750 ml",
+          "unitCode": "ml",
+          "price": 40,
+          "emoji": "🥤"
+        },
+        {
+          "name": "Coca-Cola Classic",
+          "unit": "750 ml",
+          "unitCode": "ml",
+          "price": 40,
+          "emoji": "🥤"
+        },
+        {
+          "name": "Maaza Mango Drink",
+          "unit": "1.2 L",
+          "unitCode": "l",
+          "price": 75,
+          "emoji": "🥭"
+        },
+        {
+          "name": "Packaged Mineral Water",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 20,
+          "emoji": "💧"
+        },
+        {
+          "name": "Club Soda",
+          "unit": "750 ml",
+          "unitCode": "ml",
+          "price": 25,
+          "emoji": "🫧"
+        },
+        {
+          "name": "Paper Boat Aam Panna",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 30,
+          "emoji": "🧃"
+        },
+        {
+          "name": "Orange Juice",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 125,
+          "emoji": "🍊"
+        },
+        {
+          "name": "Lemon Soda",
+          "unit": "300 ml",
+          "unitCode": "ml",
+          "price": 35,
+          "emoji": "🍋"
+        },
+        {
+          "name": "Mango Fruit Drink",
+          "unit": "600 ml",
+          "unitCode": "ml",
+          "price": 45,
+          "emoji": "🥭"
+        },
+        {
+          "name": "Sparkling Water",
+          "unit": "750 ml",
+          "unitCode": "ml",
+          "price": 55,
+          "emoji": "🫧"
+        }
+      ]
+    },
+    {
+      "id": "snacks-munchies",
+      "name": "Snacks & Munchies",
+      "emoji": "🍿",
+      "artwork": [
+        "🥨",
+        "🍿",
+        "🥔"
+      ],
+      "tone": "tone-yellow",
+      "items": [
+        {
+          "name": "Classic Salted Potato Chips",
+          "unit": "52 g",
+          "unitCode": "g",
+          "price": 20,
+          "emoji": "🥔"
+        },
+        {
+          "name": "Masala Crunch Sticks",
+          "unit": "90 g",
+          "unitCode": "g",
+          "price": 25,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Spicy Mixture Namkeen",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🥨"
+        },
+        {
+          "name": "Butter Popcorn",
+          "unit": "70 g",
+          "unitCode": "g",
+          "price": 45,
+          "emoji": "🍿"
+        },
+        {
+          "name": "Cheese Balls",
+          "unit": "40 g",
+          "unitCode": "g",
+          "price": 30,
+          "emoji": "🧀"
+        },
+        {
+          "name": "Banana Chips",
+          "unit": "150 g",
+          "unitCode": "g",
+          "price": 65,
+          "emoji": "🍌"
+        },
+        {
+          "name": "Roasted Peanuts",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 58,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Classic Sev",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 50,
+          "emoji": "🥨"
+        },
+        {
+          "name": "Nacho Chips",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🌽"
+        },
+        {
+          "name": "Masala Chakli",
+          "unit": "180 g",
+          "unitCode": "g",
+          "price": 70,
+          "emoji": "🥨"
+        }
+      ]
+    },
+    {
+      "id": "breakfast-instant-food",
+      "name": "Breakfast & Instant Food",
+      "emoji": "🥣",
+      "artwork": [
+        "🌽",
+        "🥣",
+        "🍜"
+      ],
+      "tone": "tone-orange",
+      "items": [
+        {
+          "name": "Rolled Oats",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 185,
+          "emoji": "🥣"
+        },
+        {
+          "name": "Crunchy Corn Flakes",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 175,
+          "emoji": "🌽"
+        },
+        {
+          "name": "Instant Noodles",
+          "unit": "4 × 70 g",
+          "unitCode": "pack",
+          "price": 56,
+          "emoji": "🍜"
+        },
+        {
+          "name": "Thick Poha",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 48,
+          "emoji": "🍚"
+        },
+        {
+          "name": "Instant Upma Mix",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🥣"
+        },
+        {
+          "name": "Fruit and Nut Muesli",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 265,
+          "emoji": "🥣"
+        },
+        {
+          "name": "Macaroni Pasta",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 85,
+          "emoji": "🍝"
+        },
+        {
+          "name": "Roasted Vermicelli",
+          "unit": "400 g",
+          "unitCode": "g",
+          "price": 58,
+          "emoji": "🍜"
+        },
+        {
+          "name": "Instant Dosa Mix",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 115,
+          "emoji": "🥞"
+        },
+        {
+          "name": "Pancake Mix",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 145,
+          "emoji": "🥞"
+        }
+      ]
+    },
+    {
+      "id": "candies-gums",
+      "name": "Sweet Tooth",
+      "emoji": "🍫",
+      "artwork": [
+        "🍬",
+        "🍫",
+        "🍭"
+      ],
+      "tone": "tone-pink",
+      "items": [
+        {
+          "name": "Silk Milk Chocolate Bar",
+          "unit": "60 g",
+          "unitCode": "g",
+          "price": 85,
+          "emoji": "🍫"
+        },
+        {
+          "name": "Chocolate Gems Mini Pack",
+          "unit": "28 g",
+          "unitCode": "g",
+          "price": 20,
+          "emoji": "🍬"
+        },
+        {
+          "name": "Coffee Eclairs Share Pack",
+          "unit": "160 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🍬"
+        },
+        {
+          "name": "Mint Chewing Gum",
+          "unit": "10 pieces",
+          "unitCode": "piece",
+          "price": 50,
+          "emoji": "🍃"
+        },
+        {
+          "name": "Mango Fruit Candy",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 45,
+          "emoji": "🥭"
+        },
+        {
+          "name": "Assorted Fruit Lollipops",
+          "unit": "10 pieces",
+          "unitCode": "piece",
+          "price": 40,
+          "emoji": "🍭"
+        },
+        {
+          "name": "Peanut Chikki",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 75,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Dark Chocolate Bar",
+          "unit": "80 g",
+          "unitCode": "g",
+          "price": 110,
+          "emoji": "🍫"
+        },
+        {
+          "name": "Assorted Jelly Candy",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 60,
+          "emoji": "🍬"
+        },
+        {
+          "name": "Caramel Toffee Pack",
+          "unit": "150 g",
+          "unitCode": "g",
+          "price": 65,
+          "emoji": "🍬"
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery & Biscuits",
+      "emoji": "🥐",
+      "artwork": [
+        "🥖",
+        "🥐",
+        "🍪"
+      ],
+      "tone": "tone-peach",
+      "items": [
+        {
+          "name": "Soft Milk Bread Loaf",
+          "unit": "400 g",
+          "unitCode": "g",
+          "price": 42,
+          "emoji": "🍞"
+        },
+        {
+          "name": "Butter Pav Pack",
+          "unit": "6 pieces",
+          "unitCode": "piece",
+          "price": 35,
+          "emoji": "🥖"
+        },
+        {
+          "name": "Chocolate Muffins",
+          "unit": "2 pieces",
+          "unitCode": "piece",
+          "price": 65,
+          "emoji": "🧁"
+        },
+        {
+          "name": "Glucose Biscuit Value Pack",
+          "unit": "800 g",
+          "unitCode": "g",
+          "price": 90,
+          "emoji": "🍪"
+        },
+        {
+          "name": "Marie Biscuit Family Pack",
+          "unit": "600 g",
+          "unitCode": "g",
+          "price": 85,
+          "emoji": "🍪"
+        },
+        {
+          "name": "Butter Cookies",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 110,
+          "emoji": "🍪"
+        },
+        {
+          "name": "Multigrain Digestive Biscuits",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🍪"
+        },
+        {
+          "name": "Butter Croissant",
+          "unit": "2 pieces",
+          "unitCode": "piece",
+          "price": 75,
+          "emoji": "🥐"
+        },
+        {
+          "name": "Jam Roll Cake",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 80,
+          "emoji": "🍰"
+        },
+        {
+          "name": "Pizza Base Pack",
+          "unit": "2 pieces",
+          "unitCode": "piece",
+          "price": 55,
+          "emoji": "🍕"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "name": "Tea, Coffee & Milk Drinks",
+      "emoji": "☕",
+      "artwork": [
+        "🍵",
+        "☕",
+        "🥛"
+      ],
+      "tone": "tone-lilac",
+      "items": [
+        {
+          "name": "Assam CTC Tea",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 165,
+          "emoji": "🍵"
+        },
+        {
+          "name": "Green Tea Bags",
+          "unit": "25 bags",
+          "unitCode": "pack",
+          "price": 125,
+          "emoji": "🍃"
+        },
+        {
+          "name": "Instant Coffee",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 245,
+          "emoji": "☕"
+        },
+        {
+          "name": "South Indian Filter Coffee",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 195,
+          "emoji": "☕"
+        },
+        {
+          "name": "Masala Chai Tea",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 175,
+          "emoji": "🍵"
+        },
+        {
+          "name": "Hot Chocolate Mix",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 185,
+          "emoji": "🍫"
+        },
+        {
+          "name": "Malted Milk Drink",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 285,
+          "emoji": "🥛"
+        },
+        {
+          "name": "Lemon Tea Bags",
+          "unit": "25 bags",
+          "unitCode": "pack",
+          "price": 115,
+          "emoji": "🍋"
+        },
+        {
+          "name": "Chilled Coffee Drink",
+          "unit": "180 ml",
+          "unitCode": "ml",
+          "price": 45,
+          "emoji": "🥤"
+        },
+        {
+          "name": "Ginger Tea Premix",
+          "unit": "10 sachets",
+          "unitCode": "sachet",
+          "price": 95,
+          "emoji": "🍵"
+        }
+      ]
+    },
+    {
+      "id": "grains",
+      "name": "Atta, Rice & Dal",
+      "emoji": "🌾",
+      "artwork": [
+        "🌾",
+        "🍚",
+        "🫘"
+      ],
+      "tone": "tone-yellow",
+      "items": [
+        {
+          "name": "Queen's Choice Rozana Gold Tibar Basmati Rice",
+          "unit": "5 kg",
+          "unitCode": "kg",
+          "price": 421,
+          "emoji": "🍚"
+        },
+        {
+          "name": "Queen's Choice Rozana Gold Basmati Rice",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 104,
+          "emoji": "🍚"
+        },
+        {
+          "name": "Rozana Dubar Broken Basmati Rice",
+          "unit": "5 kg",
+          "unitCode": "kg",
+          "price": 338,
+          "emoji": "🍚"
+        },
+        {
+          "name": "Fortune Besan",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 48,
+          "emoji": "🌾"
+        },
+        {
+          "name": "Fortune Soya Chunks",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 130,
+          "emoji": "🫘"
+        },
+        {
+          "name": "Classic Brown Chana",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 48,
+          "emoji": "🫘"
+        },
+        {
+          "name": "Classic Yellow Moong Dal Split",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 135,
+          "emoji": "🫘"
+        },
+        {
+          "name": "Classic Chana Dal Split",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 105,
+          "emoji": "🫘"
+        },
+        {
+          "name": "Premium Whole Wheat Atta",
+          "unit": "5 kg",
+          "unitCode": "kg",
+          "price": 265,
+          "emoji": "🌾"
+        },
+        {
+          "name": "Toor Dal Family Pack",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 165,
+          "emoji": "🫘"
+        }
+      ]
+    },
+    {
+      "id": "masala",
+      "name": "Masala, Oil & More",
+      "emoji": "🌶️",
+      "artwork": [
+        "🌶️",
+        "🧂",
+        "🫙"
+      ],
+      "tone": "tone-orange",
+      "items": [
+        {
+          "name": "Sambhar Masala Family Pack",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 65,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Vegetable Masala Premium Pack",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 58,
+          "emoji": "🧂"
+        },
+        {
+          "name": "Chicken Masala Spice Blend",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 62,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Fish Masala Spice Blend",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 60,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Goda Masala Special Blend",
+          "unit": "100 g",
+          "unitCode": "g",
+          "price": 75,
+          "emoji": "🧂"
+        },
+        {
+          "name": "Ground Turmeric Powder",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 72,
+          "emoji": "🌾"
+        },
+        {
+          "name": "Kashmiri Chilli Powder",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 115,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Whole Cumin Seeds",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 98,
+          "emoji": "🌿"
+        },
+        {
+          "name": "Sunflower Cooking Oil",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 155,
+          "emoji": "🫗"
+        },
+        {
+          "name": "Cold Pressed Mustard Oil",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 185,
+          "emoji": "🫗"
+        }
+      ]
+    },
+    {
+      "id": "sauces-spreads",
+      "name": "Sauces & Spreads",
+      "emoji": "🥫",
+      "artwork": [
+        "🍅",
+        "🥫",
+        "🍯"
+      ],
+      "tone": "tone-peach",
+      "items": [
+        {
+          "name": "Tomato Ketchup",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 125,
+          "emoji": "🍅"
+        },
+        {
+          "name": "Mint Green Chutney",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 55,
+          "emoji": "🌿"
+        },
+        {
+          "name": "Eggless Mayonnaise",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🥫"
+        },
+        {
+          "name": "Creamy Peanut Butter",
+          "unit": "340 g",
+          "unitCode": "g",
+          "price": 185,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Mixed Fruit Jam",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 145,
+          "emoji": "🍓"
+        },
+        {
+          "name": "Cheese Spread",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 125,
+          "emoji": "🧀"
+        },
+        {
+          "name": "Schezwan Chutney",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 95,
+          "emoji": "🌶️"
+        },
+        {
+          "name": "Dark Soy Sauce",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 75,
+          "emoji": "🥫"
+        },
+        {
+          "name": "Sandwich Spread",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 115,
+          "emoji": "🥪"
+        },
+        {
+          "name": "Sweet Chilli Sauce",
+          "unit": "250 ml",
+          "unitCode": "ml",
+          "price": 99,
+          "emoji": "🌶️"
+        }
+      ]
+    },
+    {
+      "id": "chicken-meat-fish",
+      "name": "Chicken, Meat & Fish",
+      "emoji": "🐟",
+      "artwork": [
+        "🍗",
+        "🥩",
+        "🐟"
+      ],
+      "tone": "tone-blue",
+      "items": [
+        {
+          "name": "Chicken Curry Cut",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 175,
+          "emoji": "🍗"
+        },
+        {
+          "name": "Boneless Chicken Breast",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 245,
+          "emoji": "🍗"
+        },
+        {
+          "name": "Chicken Drumsticks",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 195,
+          "emoji": "🍗"
+        },
+        {
+          "name": "Whole Chicken Cleaned",
+          "unit": "1 kg",
+          "unitCode": "kg",
+          "price": 285,
+          "emoji": "🍗"
+        },
+        {
+          "name": "Mutton Curry Cut",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 425,
+          "emoji": "🥩"
+        },
+        {
+          "name": "Lamb Mince",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 395,
+          "emoji": "🥩"
+        },
+        {
+          "name": "Rohu Fish Curry Cut",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 185,
+          "emoji": "🐟"
+        },
+        {
+          "name": "Boneless Fish Fillet",
+          "unit": "400 g",
+          "unitCode": "g",
+          "price": 265,
+          "emoji": "🐟"
+        },
+        {
+          "name": "Cleaned Prawns",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 225,
+          "emoji": "🦐"
+        },
+        {
+          "name": "Chicken Breakfast Sausages",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 165,
+          "emoji": "🌭"
+        }
+      ]
+    },
+    {
+      "id": "dry-fruits",
+      "name": "Organic & Healthy Living",
+      "emoji": "🥑",
+      "artwork": [
+        "🥑",
+        "🥜",
+        "🥦"
+      ],
+      "tone": "tone-green",
+      "items": [
+        {
+          "name": "Sunflower Seeds",
+          "unit": "250 g",
+          "unitCode": "g",
+          "price": 88,
+          "emoji": "🌻"
+        },
+        {
+          "name": "Farmley Barkat Dates",
+          "unit": "2 × 500 g",
+          "unitCode": "pack",
+          "price": 598,
+          "emoji": "🌴"
+        },
+        {
+          "name": "Almonds and Cashews Combo",
+          "unit": "2 × 200 g",
+          "unitCode": "pack",
+          "price": 442,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Dried Figs",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 253,
+          "emoji": "🟤"
+        },
+        {
+          "name": "Premium Pumpkin Seeds",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 192,
+          "emoji": "🎃"
+        },
+        {
+          "name": "Premium Raisins",
+          "unit": "500 g",
+          "unitCode": "g",
+          "price": 243,
+          "emoji": "🍇"
+        },
+        {
+          "name": "Gold Makhana",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 346,
+          "emoji": "🌰"
+        },
+        {
+          "name": "Roasted Salted Pistachios",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 418,
+          "emoji": "🥜"
+        },
+        {
+          "name": "Raw Chia Seeds",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 175,
+          "emoji": "🌱"
+        },
+        {
+          "name": "Dried Apricots",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 225,
+          "emoji": "🍑"
+        }
+      ]
+    },
+    {
+      "id": "baby-care",
+      "name": "Baby Care",
+      "emoji": "🍼",
+      "artwork": [
+        "🍼",
+        "🧸",
+        "🧴"
+      ],
+      "tone": "tone-pink",
+      "items": [
+        {
+          "name": "Baby Diapers Medium",
+          "unit": "20 pieces",
+          "unitCode": "piece",
+          "price": 299,
+          "emoji": "🧷"
+        },
+        {
+          "name": "Gentle Baby Wipes",
+          "unit": "72 wipes",
+          "unitCode": "pack",
+          "price": 125,
+          "emoji": "🧻"
+        },
+        {
+          "name": "Mild Baby Body Wash",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 185,
+          "emoji": "🛁"
+        },
+        {
+          "name": "Tear-Free Baby Shampoo",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 175,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Daily Baby Lotion",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 195,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Soft Baby Powder",
+          "unit": "200 g",
+          "unitCode": "g",
+          "price": 145,
+          "emoji": "🍼"
+        },
+        {
+          "name": "Baby Diaper Rash Cream",
+          "unit": "50 g",
+          "unitCode": "g",
+          "price": 165,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Nourishing Baby Oil",
+          "unit": "200 ml",
+          "unitCode": "ml",
+          "price": 185,
+          "emoji": "🫙"
+        },
+        {
+          "name": "Stage 1 Baby Cereal",
+          "unit": "300 g",
+          "unitCode": "g",
+          "price": 285,
+          "emoji": "🥣"
+        },
+        {
+          "name": "Baby Feeding Bottle",
+          "unit": "1 piece",
+          "unitCode": "piece",
+          "price": 225,
+          "emoji": "🍼"
+        }
+      ]
+    },
+    {
+      "id": "pharma-wellness",
+      "name": "Pharma & Wellness",
+      "emoji": "💊",
+      "artwork": [
+        "🩹",
+        "💊",
+        "🧴"
+      ],
+      "tone": "tone-blue",
+      "items": [
+        {
+          "name": "Digital Thermometer",
+          "unit": "1 piece",
+          "unitCode": "piece",
+          "price": 225,
+          "emoji": "🌡️"
+        },
+        {
+          "name": "Antiseptic Solution",
+          "unit": "100 ml",
+          "unitCode": "ml",
+          "price": 85,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Cotton Crepe Bandage",
+          "unit": "1 roll",
+          "unitCode": "piece",
+          "price": 65,
+          "emoji": "🩹"
+        },
+        {
+          "name": "ORS Hydration Sachets",
+          "unit": "5 sachets",
+          "unitCode": "sachet",
+          "price": 55,
+          "emoji": "💧"
+        },
+        {
+          "name": "Hand Sanitizer",
+          "unit": "100 ml",
+          "unitCode": "ml",
+          "price": 55,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Hot Water Bag",
+          "unit": "1 piece",
+          "unitCode": "piece",
+          "price": 245,
+          "emoji": "🫖"
+        },
+        {
+          "name": "Pain Relief Balm",
+          "unit": "25 g",
+          "unitCode": "g",
+          "price": 65,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Vitamin C Supplement",
+          "unit": "30 tablets",
+          "unitCode": "pack",
+          "price": 125,
+          "emoji": "🍊"
+        },
+        {
+          "name": "Mosquito Repellent Cream",
+          "unit": "50 g",
+          "unitCode": "g",
+          "price": 85,
+          "emoji": "🦟"
+        },
+        {
+          "name": "Adhesive Bandages",
+          "unit": "20 strips",
+          "unitCode": "pack",
+          "price": 75,
+          "emoji": "🩹"
+        }
+      ]
+    },
+    {
+      "id": "cleaning-laundry",
+      "name": "Cleaning Essentials",
+      "emoji": "🧼",
+      "artwork": [
+        "🧹",
+        "🧼",
+        "🧽"
+      ],
+      "tone": "tone-lilac",
+      "items": [
+        {
+          "name": "Liquid Laundry Detergent",
+          "unit": "2 L",
+          "unitCode": "l",
+          "price": 345,
+          "emoji": "🫧"
+        },
+        {
+          "name": "Antibacterial Handwash",
+          "unit": "750 ml",
+          "unitCode": "ml",
+          "price": 145,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Dishwash Bar Value Pack",
+          "unit": "3 pieces",
+          "unitCode": "piece",
+          "price": 55,
+          "emoji": "🧼"
+        },
+        {
+          "name": "Multi-Surface Cleaner",
+          "unit": "500 ml",
+          "unitCode": "ml",
+          "price": 125,
+          "emoji": "🧴"
+        },
+        {
+          "name": "Bathroom Cleaner",
+          "unit": "500 ml",
+          "unitCode": "ml",
+          "price": 135,
+          "emoji": "🧽"
+        },
+        {
+          "name": "Laundry Stain Remover",
+          "unit": "500 ml",
+          "unitCode": "ml",
+          "price": 185,
+          "emoji": "🫧"
+        },
+        {
+          "name": "Scrub Sponge Pack",
+          "unit": "2 pieces",
+          "unitCode": "piece",
+          "price": 45,
+          "emoji": "🧽"
+        },
+        {
+          "name": "Garbage Bags",
+          "unit": "30 bags",
+          "unitCode": "pack",
+          "price": 99,
+          "emoji": "🗑️"
+        },
+        {
+          "name": "Microfiber Cleaning Cloth",
+          "unit": "2 pieces",
+          "unitCode": "piece",
+          "price": 85,
+          "emoji": "🧹"
+        },
+        {
+          "name": "Toilet Cleaner",
+          "unit": "1 L",
+          "unitCode": "l",
+          "price": 165,
+          "emoji": "🧴"
+        }
+      ]
+    },
+    {
+      "id": "home-office",
+      "name": "Home & Office",
+      "emoji": "📦",
+      "artwork": [
+        "🧻",
+        "🖊️",
+        "📦"
+      ],
+      "tone": "tone-peach",
+      "items": [
+        {
+          "name": "A5 Ruled Notebook",
+          "unit": "1 piece",
+          "unitCode": "piece",
+          "price": 65,
+          "emoji": "📓"
+        },
+        {
+          "name": "Ball Pens",
+          "unit": "5 pieces",
+          "unitCode": "pack",
+          "price": 55,
+          "emoji": "🖊️"
+        },
+        {
+          "name": "Facial Tissue Box",
+          "unit": "100 tissues",
+          "unitCode": "box",
+          "price": 95,
+          "emoji": "🧻"
+        },
+        {
+          "name": "Kitchen Paper Towels",
+          "unit": "2 rolls",
+          "unitCode": "pack",
+          "price": 125,
+          "emoji": "🧻"
+        },
+        {
+          "name": "AA Alkaline Batteries",
+          "unit": "4 pieces",
+          "unitCode": "pack",
+          "price": 145,
+          "emoji": "🔋"
+        },
+        {
+          "name": "Transparent Adhesive Tape",
+          "unit": "1 roll",
+          "unitCode": "piece",
+          "price": 35,
+          "emoji": "📏"
+        },
+        {
+          "name": "Glue Stick",
+          "unit": "1 piece",
+          "unitCode": "piece",
+          "price": 45,
+          "emoji": "🖍️"
+        },
+        {
+          "name": "LED Bulb",
+          "unit": "9 W",
+          "unitCode": "piece",
+          "price": 125,
+          "emoji": "💡"
+        },
+        {
+          "name": "Room Air Freshener",
+          "unit": "220 ml",
+          "unitCode": "ml",
+          "price": 185,
+          "emoji": "🌸"
+        },
+        {
+          "name": "Sticky Notes",
+          "unit": "100 sheets",
+          "unitCode": "pack",
+          "price": 55,
+          "emoji": "🗒️"
+        }
+      ]
+    }
+  ]
+}
